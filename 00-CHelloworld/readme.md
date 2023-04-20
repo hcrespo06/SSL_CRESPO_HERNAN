@@ -1,7 +1,9 @@
 # 00-Hello
 
 Numero de equipo: -
+
 Usuario github: hcrespo06
+
 Legajo: 152.748-4
 Apellido: Crespo
 Nombre: Hernan
